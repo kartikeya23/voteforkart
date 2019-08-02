@@ -13,3 +13,7 @@ a {
 .social-icons a:hover {
   background-color: #0071d6;
 }
+
+.blockquote {
+  color: #868e96;
+}
